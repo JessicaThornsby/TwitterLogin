@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterLogin</string>
+        <string name="twitter_consumer_key" translatable="false">YOUR-TWITTER-KEY</string>
+        <string name="twitter_consumer_secret" translatable="false">YOUR-TWITTER-SECRET</string>
+</resources>
